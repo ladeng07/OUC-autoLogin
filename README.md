@@ -13,7 +13,7 @@
 
 ## 下载方式
 
-方法一：[点击下载](https://www.icloud.com/shortcuts/17c3642365024feab55464f7b3ea8549)
+方法一：[点击下载](https://www.icloud.com/shortcuts/aa8cc6e352844c9194cf839162e1e563)
 
 方法二：下载仓库中的`.shortcut`文件
 
